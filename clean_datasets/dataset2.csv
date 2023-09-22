@@ -1,0 +1,2264 @@
+"country_name","genres","n"
+"Argentina","Action",140
+"Argentina","Adult",3
+"Argentina","Adventure",105
+"Argentina","Animation",60
+"Argentina","Biography",8
+"Argentina","Comedy",169
+"Argentina","Crime",128
+"Argentina","Documentary",12
+"Argentina","Drama",350
+"Argentina","Family",16
+"Argentina","Fantasy",25
+"Argentina","History",2
+"Argentina","Horror",37
+"Argentina","Music",36
+"Argentina","Mystery",63
+"Argentina","Reality-TV",2
+"Argentina","Romance",97
+"Argentina","Sci-Fi",14
+"Argentina","Short",1
+"Argentina","Sport",10
+"Argentina","Talk-Show",9
+"Argentina","Thriller",82
+"Argentina","War",5
+"Argentina","Western",1
+"Australia","Action",181
+"Australia","Adult",3
+"Australia","Adventure",138
+"Australia","Animation",49
+"Australia","Biography",18
+"Australia","Comedy",185
+"Australia","Crime",112
+"Australia","Documentary",28
+"Australia","Drama",266
+"Australia","Family",49
+"Australia","Fantasy",51
+"Australia","Game-Show",8
+"Australia","History",5
+"Australia","Horror",25
+"Australia","Music",3
+"Australia","Mystery",67
+"Australia","News",1
+"Australia","Reality-TV",33
+"Australia","Romance",72
+"Australia","Sci-Fi",42
+"Australia","Short",2
+"Australia","Sport",12
+"Australia","Talk-Show",14
+"Australia","Thriller",74
+"Australia","War",7
+"Australia","Western",4
+"Austria","Action",199
+"Austria","Adult",6
+"Austria","Adventure",138
+"Austria","Animation",34
+"Austria","Biography",15
+"Austria","Comedy",183
+"Austria","Crime",146
+"Austria","Documentary",22
+"Austria","Drama",297
+"Austria","Family",47
+"Austria","Fantasy",55
+"Austria","Game-Show",6
+"Austria","History",3
+"Austria","Horror",44
+"Austria","Music",2
+"Austria","Mystery",56
+"Austria","Reality-TV",18
+"Austria","Romance",80
+"Austria","Sci-Fi",17
+"Austria","Short",1
+"Austria","Sport",15
+"Austria","Talk-Show",12
+"Austria","Thriller",76
+"Austria","War",5
+"Bahamas","Action",169
+"Bahamas","Adult",6
+"Bahamas","Adventure",103
+"Bahamas","Animation",78
+"Bahamas","Biography",12
+"Bahamas","Comedy",177
+"Bahamas","Crime",128
+"Bahamas","Documentary",13
+"Bahamas","Drama",282
+"Bahamas","Family",48
+"Bahamas","Fantasy",32
+"Bahamas","Game-Show",4
+"Bahamas","History",3
+"Bahamas","Horror",34
+"Bahamas","Music",3
+"Bahamas","Mystery",47
+"Bahamas","Reality-TV",17
+"Bahamas","Romance",71
+"Bahamas","Sci-Fi",22
+"Bahamas","Short",3
+"Bahamas","Sport",8
+"Bahamas","Talk-Show",8
+"Bahamas","Thriller",102
+"Bahamas","War",4
+"Bahrain","Action",194
+"Bahrain","Adult",5
+"Bahrain","Adventure",109
+"Bahrain","Animation",38
+"Bahrain","Biography",17
+"Bahrain","Comedy",161
+"Bahrain","Crime",127
+"Bahrain","Documentary",13
+"Bahrain","Drama",318
+"Bahrain","Family",20
+"Bahrain","Fantasy",39
+"Bahrain","Game-Show",11
+"Bahrain","History",2
+"Bahrain","Horror",39
+"Bahrain","Music",1
+"Bahrain","Musical",1
+"Bahrain","Mystery",54
+"Bahrain","Reality-TV",20
+"Bahrain","Romance",90
+"Bahrain","Sci-Fi",21
+"Bahrain","Short",3
+"Bahrain","Sport",8
+"Bahrain","Talk-Show",10
+"Bahrain","Thriller",82
+"Bahrain","War",4
+"Bangladesh","Action",214
+"Bangladesh","Adult",3
+"Bangladesh","Adventure",83
+"Bangladesh","Animation",37
+"Bangladesh","Biography",4
+"Bangladesh","Comedy",185
+"Bangladesh","Crime",142
+"Bangladesh","Documentary",7
+"Bangladesh","Drama",356
+"Bangladesh","Family",13
+"Bangladesh","Fantasy",26
+"Bangladesh","Game-Show",4
+"Bangladesh","History",2
+"Bangladesh","Horror",29
+"Bangladesh","Musical",5
+"Bangladesh","Mystery",95
+"Bangladesh","Reality-TV",7
+"Bangladesh","Romance",91
+"Bangladesh","Sci-Fi",32
+"Bangladesh","Short",5
+"Bangladesh","Sport",1
+"Bangladesh","Talk-Show",10
+"Bangladesh","Thriller",63
+"Bangladesh","War",2
+"Belgium","Action",196
+"Belgium","Adult",4
+"Belgium","Adventure",137
+"Belgium","Animation",56
+"Belgium","Biography",14
+"Belgium","Comedy",189
+"Belgium","Crime",130
+"Belgium","Documentary",15
+"Belgium","Drama",309
+"Belgium","Family",22
+"Belgium","Fantasy",52
+"Belgium","Game-Show",5
+"Belgium","History",2
+"Belgium","Horror",37
+"Belgium","Music",8
+"Belgium","Mystery",50
+"Belgium","Reality-TV",20
+"Belgium","Romance",88
+"Belgium","Sci-Fi",23
+"Belgium","Short",1
+"Belgium","Sport",11
+"Belgium","Talk-Show",8
+"Belgium","Thriller",68
+"Belgium","War",6
+"Bolivia","Action",171
+"Bolivia","Adult",3
+"Bolivia","Adventure",143
+"Bolivia","Animation",99
+"Bolivia","Biography",1
+"Bolivia","Comedy",213
+"Bolivia","Crime",91
+"Bolivia","Documentary",6
+"Bolivia","Drama",275
+"Bolivia","Family",16
+"Bolivia","Fantasy",30
+"Bolivia","Horror",24
+"Bolivia","Music",20
+"Bolivia","Mystery",41
+"Bolivia","Reality-TV",6
+"Bolivia","Romance",103
+"Bolivia","Sci-Fi",23
+"Bolivia","Short",2
+"Bolivia","Sport",5
+"Bolivia","Talk-Show",6
+"Bolivia","Thriller",57
+"Bolivia","War",2
+"Brazil","Action",164
+"Brazil","Adult",4
+"Brazil","Adventure",190
+"Brazil","Animation",73
+"Brazil","Biography",9
+"Brazil","Comedy",194
+"Brazil","Crime",118
+"Brazil","Documentary",13
+"Brazil","Drama",317
+"Brazil","Family",104
+"Brazil","Fantasy",27
+"Brazil","Game-Show",4
+"Brazil","Horror",28
+"Brazil","Music",18
+"Brazil","Musical",51
+"Brazil","Mystery",48
+"Brazil","Reality-TV",14
+"Brazil","Romance",115
+"Brazil","Sci-Fi",21
+"Brazil","Short",3
+"Brazil","Sport",6
+"Brazil","Talk-Show",6
+"Brazil","Thriller",68
+"Brazil","War",4
+"Bulgaria","Action",220
+"Bulgaria","Adult",5
+"Bulgaria","Adventure",129
+"Bulgaria","Animation",45
+"Bulgaria","Biography",11
+"Bulgaria","Comedy",187
+"Bulgaria","Crime",119
+"Bulgaria","Documentary",17
+"Bulgaria","Drama",303
+"Bulgaria","Family",25
+"Bulgaria","Fantasy",41
+"Bulgaria","Game-Show",10
+"Bulgaria","History",1
+"Bulgaria","Horror",33
+"Bulgaria","Music",3
+"Bulgaria","Mystery",45
+"Bulgaria","Reality-TV",25
+"Bulgaria","Romance",96
+"Bulgaria","Sci-Fi",38
+"Bulgaria","Short",1
+"Bulgaria","Sport",10
+"Bulgaria","Talk-Show",12
+"Bulgaria","Thriller",63
+"Bulgaria","War",4
+"Canada","Action",150
+"Canada","Adult",7
+"Canada","Adventure",102
+"Canada","Animation",52
+"Canada","Biography",24
+"Canada","Comedy",181
+"Canada","Crime",134
+"Canada","Documentary",29
+"Canada","Drama",262
+"Canada","Family",24
+"Canada","Fantasy",33
+"Canada","Film-Noir",1
+"Canada","Game-Show",7
+"Canada","History",4
+"Canada","Horror",37
+"Canada","Music",3
+"Canada","Musical",1
+"Canada","Mystery",71
+"Canada","Reality-TV",36
+"Canada","Romance",81
+"Canada","Sci-Fi",23
+"Canada","Short",2
+"Canada","Sport",10
+"Canada","Talk-Show",11
+"Canada","Thriller",84
+"Canada","War",5
+"Canada","Western",2
+"Chile","Action",138
+"Chile","Adult",3
+"Chile","Adventure",123
+"Chile","Animation",77
+"Chile","Biography",5
+"Chile","Comedy",199
+"Chile","Crime",103
+"Chile","Documentary",7
+"Chile","Drama",333
+"Chile","Family",20
+"Chile","Fantasy",24
+"Chile","History",2
+"Chile","Horror",30
+"Chile","Music",36
+"Chile","Mystery",44
+"Chile","Reality-TV",4
+"Chile","Romance",121
+"Chile","Sci-Fi",20
+"Chile","Short",1
+"Chile","Sport",7
+"Chile","Talk-Show",9
+"Chile","Thriller",62
+"Chile","War",5
+"Colombia","Action",152
+"Colombia","Adult",4
+"Colombia","Adventure",114
+"Colombia","Animation",64
+"Colombia","Biography",5
+"Colombia","Comedy",192
+"Colombia","Crime",114
+"Colombia","Documentary",26
+"Colombia","Drama",287
+"Colombia","Family",18
+"Colombia","Fantasy",26
+"Colombia","Horror",27
+"Colombia","Music",18
+"Colombia","Musical",4
+"Colombia","Mystery",46
+"Colombia","Reality-TV",5
+"Colombia","Romance",111
+"Colombia","Sci-Fi",18
+"Colombia","Short",2
+"Colombia","Sport",6
+"Colombia","Talk-Show",7
+"Colombia","Thriller",78
+"Colombia","War",4
+"Costa Rica","Action",134
+"Costa Rica","Adult",4
+"Costa Rica","Adventure",105
+"Costa Rica","Animation",62
+"Costa Rica","Biography",6
+"Costa Rica","Comedy",206
+"Costa Rica","Crime",103
+"Costa Rica","Documentary",11
+"Costa Rica","Drama",323
+"Costa Rica","Family",24
+"Costa Rica","Fantasy",24
+"Costa Rica","Game-Show",1
+"Costa Rica","Horror",30
+"Costa Rica","Music",33
+"Costa Rica","Mystery",42
+"Costa Rica","Reality-TV",6
+"Costa Rica","Romance",132
+"Costa Rica","Sci-Fi",18
+"Costa Rica","Short",1
+"Costa Rica","Sport",9
+"Costa Rica","Talk-Show",7
+"Costa Rica","Thriller",73
+"Costa Rica","War",2
+"Croatia","Action",173
+"Croatia","Adult",8
+"Croatia","Adventure",117
+"Croatia","Animation",53
+"Croatia","Biography",7
+"Croatia","Comedy",203
+"Croatia","Crime",132
+"Croatia","Documentary",19
+"Croatia","Drama",289
+"Croatia","Family",27
+"Croatia","Fantasy",26
+"Croatia","Game-Show",10
+"Croatia","History",4
+"Croatia","Horror",29
+"Croatia","Music",3
+"Croatia","Mystery",46
+"Croatia","Reality-TV",25
+"Croatia","Romance",91
+"Croatia","Sci-Fi",12
+"Croatia","Short",1
+"Croatia","Sport",14
+"Croatia","Talk-Show",12
+"Croatia","Thriller",67
+"Croatia","War",6
+"Cyprus","Action",201
+"Cyprus","Adult",5
+"Cyprus","Adventure",136
+"Cyprus","Animation",52
+"Cyprus","Biography",10
+"Cyprus","Comedy",195
+"Cyprus","Crime",123
+"Cyprus","Documentary",15
+"Cyprus","Drama",324
+"Cyprus","Family",31
+"Cyprus","Fantasy",29
+"Cyprus","Game-Show",8
+"Cyprus","History",1
+"Cyprus","Horror",28
+"Cyprus","Music",4
+"Cyprus","Mystery",49
+"Cyprus","Reality-TV",18
+"Cyprus","Romance",88
+"Cyprus","Sci-Fi",40
+"Cyprus","Short",5
+"Cyprus","Sport",10
+"Cyprus","Talk-Show",11
+"Cyprus","Thriller",56
+"Cyprus","War",8
+"Czech Republic","Action",195
+"Czech Republic","Adult",4
+"Czech Republic","Adventure",160
+"Czech Republic","Animation",83
+"Czech Republic","Biography",14
+"Czech Republic","Comedy",189
+"Czech Republic","Crime",122
+"Czech Republic","Documentary",29
+"Czech Republic","Drama",290
+"Czech Republic","Family",24
+"Czech Republic","Fantasy",45
+"Czech Republic","Game-Show",12
+"Czech Republic","History",2
+"Czech Republic","Horror",32
+"Czech Republic","Music",2
+"Czech Republic","Mystery",52
+"Czech Republic","Reality-TV",27
+"Czech Republic","Romance",79
+"Czech Republic","Sci-Fi",11
+"Czech Republic","Short",1
+"Czech Republic","Sport",12
+"Czech Republic","Talk-Show",10
+"Czech Republic","Thriller",50
+"Czech Republic","War",4
+"Denmark","Action",189
+"Denmark","Adult",7
+"Denmark","Adventure",124
+"Denmark","Animation",53
+"Denmark","Biography",18
+"Denmark","Comedy",185
+"Denmark","Crime",143
+"Denmark","Documentary",24
+"Denmark","Drama",312
+"Denmark","Family",24
+"Denmark","Fantasy",41
+"Denmark","Game-Show",9
+"Denmark","History",5
+"Denmark","Horror",25
+"Denmark","Music",3
+"Denmark","Musical",1
+"Denmark","Mystery",54
+"Denmark","Reality-TV",32
+"Denmark","Romance",90
+"Denmark","Sci-Fi",17
+"Denmark","Short",2
+"Denmark","Sport",12
+"Denmark","Talk-Show",9
+"Denmark","Thriller",63
+"Denmark","War",11
+"Denmark","Western",1
+"Dominican Republic","Action",184
+"Dominican Republic","Adult",3
+"Dominican Republic","Adventure",116
+"Dominican Republic","Animation",54
+"Dominican Republic","Biography",5
+"Dominican Republic","Comedy",156
+"Dominican Republic","Crime",119
+"Dominican Republic","Documentary",9
+"Dominican Republic","Drama",286
+"Dominican Republic","Family",20
+"Dominican Republic","Fantasy",32
+"Dominican Republic","Game-Show",2
+"Dominican Republic","History",1
+"Dominican Republic","Horror",30
+"Dominican Republic","Music",33
+"Dominican Republic","Mystery",41
+"Dominican Republic","Reality-TV",5
+"Dominican Republic","Romance",86
+"Dominican Republic","Sci-Fi",25
+"Dominican Republic","Short",3
+"Dominican Republic","Sport",6
+"Dominican Republic","Talk-Show",5
+"Dominican Republic","Thriller",79
+"Dominican Republic","War",4
+"Ecuador","Action",156
+"Ecuador","Adult",3
+"Ecuador","Adventure",125
+"Ecuador","Animation",71
+"Ecuador","Biography",3
+"Ecuador","Comedy",203
+"Ecuador","Crime",94
+"Ecuador","Documentary",8
+"Ecuador","Drama",277
+"Ecuador","Family",17
+"Ecuador","Fantasy",26
+"Ecuador","Horror",28
+"Ecuador","Music",32
+"Ecuador","Mystery",37
+"Ecuador","Reality-TV",5
+"Ecuador","Romance",103
+"Ecuador","Sci-Fi",22
+"Ecuador","Sport",7
+"Ecuador","Talk-Show",5
+"Ecuador","Thriller",68
+"Ecuador","War",3
+"Egypt","Action",187
+"Egypt","Adult",6
+"Egypt","Adventure",106
+"Egypt","Animation",54
+"Egypt","Biography",11
+"Egypt","Comedy",180
+"Egypt","Crime",115
+"Egypt","Documentary",9
+"Egypt","Drama",318
+"Egypt","Family",18
+"Egypt","Fantasy",35
+"Egypt","Game-Show",4
+"Egypt","History",4
+"Egypt","Horror",35
+"Egypt","Music",1
+"Egypt","Mystery",44
+"Egypt","Reality-TV",13
+"Egypt","Romance",90
+"Egypt","Sci-Fi",26
+"Egypt","Short",19
+"Egypt","Sport",3
+"Egypt","Talk-Show",12
+"Egypt","Thriller",86
+"Egypt","War",3
+"El Salvador","Action",149
+"El Salvador","Adult",3
+"El Salvador","Adventure",109
+"El Salvador","Animation",66
+"El Salvador","Biography",2
+"El Salvador","Comedy",191
+"El Salvador","Crime",109
+"El Salvador","Documentary",7
+"El Salvador","Drama",295
+"El Salvador","Family",16
+"El Salvador","Fantasy",25
+"El Salvador","Horror",25
+"El Salvador","Music",31
+"El Salvador","Mystery",36
+"El Salvador","Reality-TV",3
+"El Salvador","Romance",109
+"El Salvador","Sci-Fi",21
+"El Salvador","Short",3
+"El Salvador","Sport",8
+"El Salvador","Talk-Show",5
+"El Salvador","Thriller",66
+"El Salvador","War",4
+"Estonia","Action",187
+"Estonia","Adult",4
+"Estonia","Adventure",128
+"Estonia","Animation",56
+"Estonia","Biography",11
+"Estonia","Comedy",210
+"Estonia","Crime",111
+"Estonia","Documentary",14
+"Estonia","Drama",265
+"Estonia","Family",28
+"Estonia","Fantasy",44
+"Estonia","Game-Show",8
+"Estonia","Horror",32
+"Estonia","Music",4
+"Estonia","Musical",1
+"Estonia","Mystery",58
+"Estonia","Reality-TV",27
+"Estonia","Romance",78
+"Estonia","Sci-Fi",45
+"Estonia","Short",7
+"Estonia","Sport",8
+"Estonia","Talk-Show",7
+"Estonia","Thriller",58
+"Estonia","War",3
+"Finland","Action",205
+"Finland","Adult",5
+"Finland","Adventure",119
+"Finland","Animation",53
+"Finland","Biography",15
+"Finland","Comedy",176
+"Finland","Crime",143
+"Finland","Documentary",20
+"Finland","Drama",324
+"Finland","Family",24
+"Finland","Fantasy",38
+"Finland","Game-Show",7
+"Finland","History",3
+"Finland","Horror",30
+"Finland","Music",5
+"Finland","Musical",1
+"Finland","Mystery",55
+"Finland","Reality-TV",21
+"Finland","Romance",75
+"Finland","Sci-Fi",20
+"Finland","Sport",11
+"Finland","Talk-Show",11
+"Finland","Thriller",62
+"Finland","War",11
+"France","Action",207
+"France","Adult",3
+"France","Adventure",138
+"France","Animation",49
+"France","Biography",9
+"France","Comedy",157
+"France","Crime",141
+"France","Documentary",17
+"France","Drama",339
+"France","Family",20
+"France","Fantasy",57
+"France","Game-Show",3
+"France","History",1
+"France","Horror",47
+"France","Music",20
+"France","Mystery",48
+"France","Reality-TV",10
+"France","Romance",69
+"France","Sci-Fi",36
+"France","Short",1
+"France","Sport",9
+"France","Talk-Show",9
+"France","Thriller",87
+"France","War",4
+"Germany","Action",209
+"Germany","Adult",7
+"Germany","Adventure",163
+"Germany","Animation",47
+"Germany","Biography",14
+"Germany","Comedy",180
+"Germany","Crime",142
+"Germany","Documentary",17
+"Germany","Drama",300
+"Germany","Family",58
+"Germany","Fantasy",65
+"Germany","Game-Show",5
+"Germany","History",2
+"Germany","Horror",48
+"Germany","Music",2
+"Germany","Mystery",50
+"Germany","Reality-TV",15
+"Germany","Romance",72
+"Germany","Sci-Fi",18
+"Germany","Short",1
+"Germany","Sport",11
+"Germany","Talk-Show",11
+"Germany","Thriller",78
+"Germany","War",4
+"Greece","Action",187
+"Greece","Adult",3
+"Greece","Adventure",130
+"Greece","Animation",54
+"Greece","Biography",11
+"Greece","Comedy",176
+"Greece","Crime",127
+"Greece","Documentary",18
+"Greece","Drama",326
+"Greece","Family",26
+"Greece","Fantasy",45
+"Greece","Game-Show",6
+"Greece","History",5
+"Greece","Horror",31
+"Greece","Music",3
+"Greece","Mystery",56
+"Greece","Reality-TV",9
+"Greece","Romance",85
+"Greece","Sci-Fi",24
+"Greece","Short",4
+"Greece","Sport",10
+"Greece","Talk-Show",10
+"Greece","Thriller",53
+"Greece","War",10
+"Greece","Western",1
+"Guadeloupe","Action",221
+"Guadeloupe","Adult",5
+"Guadeloupe","Adventure",129
+"Guadeloupe","Animation",45
+"Guadeloupe","Biography",5
+"Guadeloupe","Comedy",152
+"Guadeloupe","Crime",143
+"Guadeloupe","Documentary",12
+"Guadeloupe","Drama",312
+"Guadeloupe","Family",19
+"Guadeloupe","Fantasy",49
+"Guadeloupe","Game-Show",5
+"Guadeloupe","Horror",41
+"Guadeloupe","Music",34
+"Guadeloupe","Mystery",40
+"Guadeloupe","Reality-TV",14
+"Guadeloupe","Romance",77
+"Guadeloupe","Sci-Fi",27
+"Guadeloupe","Short",2
+"Guadeloupe","Sport",6
+"Guadeloupe","Talk-Show",6
+"Guadeloupe","Thriller",70
+"Guadeloupe","War",1
+"Guatemala","Action",132
+"Guatemala","Adult",3
+"Guatemala","Adventure",110
+"Guatemala","Animation",66
+"Guatemala","Biography",4
+"Guatemala","Comedy",202
+"Guatemala","Crime",99
+"Guatemala","Documentary",8
+"Guatemala","Drama",301
+"Guatemala","Family",21
+"Guatemala","Fantasy",24
+"Guatemala","Horror",26
+"Guatemala","Music",32
+"Guatemala","Mystery",42
+"Guatemala","Reality-TV",4
+"Guatemala","Romance",116
+"Guatemala","Sci-Fi",19
+"Guatemala","Short",2
+"Guatemala","Sport",7
+"Guatemala","Talk-Show",6
+"Guatemala","Thriller",61
+"Guatemala","War",4
+"Honduras","Action",140
+"Honduras","Adult",4
+"Honduras","Adventure",94
+"Honduras","Animation",49
+"Honduras","Biography",2
+"Honduras","Comedy",194
+"Honduras","Crime",113
+"Honduras","Documentary",8
+"Honduras","Drama",312
+"Honduras","Family",20
+"Honduras","Fantasy",27
+"Honduras","History",1
+"Honduras","Horror",28
+"Honduras","Music",32
+"Honduras","Mystery",43
+"Honduras","Reality-TV",5
+"Honduras","Romance",125
+"Honduras","Sci-Fi",18
+"Honduras","Short",2
+"Honduras","Sport",7
+"Honduras","Talk-Show",5
+"Honduras","Thriller",73
+"Honduras","War",4
+"Hong Kong","Action",242
+"Hong Kong","Adult",2
+"Hong Kong","Adventure",116
+"Hong Kong","Animation",32
+"Hong Kong","Biography",14
+"Hong Kong","Comedy",147
+"Hong Kong","Crime",100
+"Hong Kong","Documentary",16
+"Hong Kong","Drama",337
+"Hong Kong","Family",8
+"Hong Kong","Fantasy",39
+"Hong Kong","Game-Show",5
+"Hong Kong","History",6
+"Hong Kong","Horror",44
+"Hong Kong","Music",3
+"Hong Kong","Mystery",73
+"Hong Kong","News",2
+"Hong Kong","Reality-TV",10
+"Hong Kong","Romance",131
+"Hong Kong","Sci-Fi",69
+"Hong Kong","Short",2
+"Hong Kong","Sport",11
+"Hong Kong","Talk-Show",7
+"Hong Kong","Thriller",80
+"Hong Kong","War",5
+"Hungary","Action",193
+"Hungary","Adult",6
+"Hungary","Adventure",136
+"Hungary","Animation",65
+"Hungary","Biography",9
+"Hungary","Comedy",197
+"Hungary","Crime",139
+"Hungary","Documentary",18
+"Hungary","Drama",307
+"Hungary","Family",30
+"Hungary","Fantasy",38
+"Hungary","Game-Show",7
+"Hungary","History",1
+"Hungary","Horror",38
+"Hungary","Music",3
+"Hungary","Mystery",53
+"Hungary","Reality-TV",18
+"Hungary","Romance",93
+"Hungary","Sci-Fi",10
+"Hungary","Short",2
+"Hungary","Sport",12
+"Hungary","Talk-Show",14
+"Hungary","Thriller",59
+"Hungary","War",5
+"Iceland","Action",176
+"Iceland","Adult",4
+"Iceland","Adventure",130
+"Iceland","Animation",49
+"Iceland","Biography",17
+"Iceland","Comedy",199
+"Iceland","Crime",126
+"Iceland","Documentary",28
+"Iceland","Drama",283
+"Iceland","Family",28
+"Iceland","Fantasy",31
+"Iceland","Game-Show",11
+"Iceland","History",5
+"Iceland","Horror",28
+"Iceland","Music",8
+"Iceland","Mystery",52
+"Iceland","Reality-TV",40
+"Iceland","Romance",84
+"Iceland","Sci-Fi",33
+"Iceland","Short",2
+"Iceland","Sport",11
+"Iceland","Talk-Show",11
+"Iceland","Thriller",56
+"Iceland","War",6
+"India","Action",247
+"India","Adult",2
+"India","Adventure",68
+"India","Animation",21
+"India","Biography",2
+"India","Comedy",188
+"India","Crime",194
+"India","Documentary",11
+"India","Drama",375
+"India","Family",13
+"India","Fantasy",43
+"India","Game-Show",6
+"India","Horror",29
+"India","Musical",2
+"India","Mystery",76
+"India","Reality-TV",10
+"India","Romance",80
+"India","Sci-Fi",11
+"India","Short",8
+"India","Sport",3
+"India","Talk-Show",7
+"India","Thriller",64
+"India","War",1
+"Indonesia","Action",219
+"Indonesia","Adult",3
+"Indonesia","Adventure",88
+"Indonesia","Animation",19
+"Indonesia","Biography",10
+"Indonesia","Comedy",155
+"Indonesia","Crime",111
+"Indonesia","Documentary",11
+"Indonesia","Drama",321
+"Indonesia","Family",18
+"Indonesia","Fantasy",35
+"Indonesia","History",8
+"Indonesia","Horror",48
+"Indonesia","Music",2
+"Indonesia","Mystery",72
+"Indonesia","News",2
+"Indonesia","Reality-TV",4
+"Indonesia","Romance",127
+"Indonesia","Sci-Fi",43
+"Indonesia","Short",3
+"Indonesia","Sport",6
+"Indonesia","Talk-Show",5
+"Indonesia","Thriller",83
+"Indonesia","War",4
+"Ireland","Action",133
+"Ireland","Adult",7
+"Ireland","Adventure",130
+"Ireland","Animation",66
+"Ireland","Biography",33
+"Ireland","Comedy",214
+"Ireland","Crime",121
+"Ireland","Documentary",29
+"Ireland","Drama",280
+"Ireland","Family",30
+"Ireland","Fantasy",22
+"Ireland","Film-Noir",1
+"Ireland","Game-Show",4
+"Ireland","History",4
+"Ireland","Horror",22
+"Ireland","Music",4
+"Ireland","Musical",3
+"Ireland","Mystery",37
+"Ireland","News",1
+"Ireland","Reality-TV",28
+"Ireland","Romance",87
+"Ireland","Sci-Fi",27
+"Ireland","Short",3
+"Ireland","Sport",14
+"Ireland","Talk-Show",10
+"Ireland","Thriller",59
+"Ireland","War",8
+"Ireland","Western",3
+"Israel","Action",183
+"Israel","Adult",5
+"Israel","Adventure",124
+"Israel","Animation",53
+"Israel","Biography",8
+"Israel","Comedy",173
+"Israel","Crime",118
+"Israel","Documentary",21
+"Israel","Drama",316
+"Israel","Family",21
+"Israel","Fantasy",16
+"Israel","Game-Show",11
+"Israel","History",3
+"Israel","Horror",21
+"Israel","Music",5
+"Israel","Mystery",37
+"Israel","Reality-TV",23
+"Israel","Romance",88
+"Israel","Sci-Fi",35
+"Israel","Short",3
+"Israel","Sport",14
+"Israel","Talk-Show",12
+"Israel","Thriller",80
+"Israel","War",7
+"Italy","Action",173
+"Italy","Adult",7
+"Italy","Adventure",89
+"Italy","Animation",21
+"Italy","Biography",13
+"Italy","Comedy",172
+"Italy","Crime",142
+"Italy","Documentary",13
+"Italy","Drama",355
+"Italy","Family",23
+"Italy","Fantasy",41
+"Italy","Game-Show",6
+"Italy","History",2
+"Italy","Horror",36
+"Italy","Music",7
+"Italy","Mystery",65
+"Italy","Reality-TV",13
+"Italy","Romance",90
+"Italy","Sci-Fi",33
+"Italy","Sport",14
+"Italy","Talk-Show",12
+"Italy","Thriller",56
+"Italy","War",5
+"Italy","Western",2
+"Jamaica","Action",206
+"Jamaica","Adult",7
+"Jamaica","Adventure",123
+"Jamaica","Animation",84
+"Jamaica","Biography",8
+"Jamaica","Comedy",182
+"Jamaica","Crime",129
+"Jamaica","Documentary",13
+"Jamaica","Drama",280
+"Jamaica","Family",38
+"Jamaica","Fantasy",39
+"Jamaica","Game-Show",4
+"Jamaica","History",2
+"Jamaica","Horror",30
+"Jamaica","Music",6
+"Jamaica","Mystery",46
+"Jamaica","Reality-TV",14
+"Jamaica","Romance",78
+"Jamaica","Sci-Fi",23
+"Jamaica","Short",2
+"Jamaica","Sport",7
+"Jamaica","Talk-Show",8
+"Jamaica","Thriller",94
+"Jamaica","War",4
+"Jamaica","Western",1
+"Japan","Action",229
+"Japan","Adult",2
+"Japan","Adventure",154
+"Japan","Animation",96
+"Japan","Biography",6
+"Japan","Comedy",164
+"Japan","Crime",68
+"Japan","Documentary",7
+"Japan","Drama",284
+"Japan","Family",16
+"Japan","Fantasy",25
+"Japan","History",7
+"Japan","Horror",38
+"Japan","Music",4
+"Japan","Musical",1
+"Japan","Mystery",40
+"Japan","Romance",180
+"Japan","Sci-Fi",30
+"Japan","Short",3
+"Japan","Sport",2
+"Japan","Talk-Show",1
+"Japan","Thriller",66
+"Japan","War",4
+"Jordan","Action",198
+"Jordan","Adult",7
+"Jordan","Adventure",97
+"Jordan","Animation",116
+"Jordan","Biography",13
+"Jordan","Comedy",236
+"Jordan","Crime",130
+"Jordan","Documentary",7
+"Jordan","Drama",289
+"Jordan","Family",17
+"Jordan","Fantasy",32
+"Jordan","Game-Show",5
+"Jordan","History",3
+"Jordan","Horror",34
+"Jordan","Musical",1
+"Jordan","Mystery",42
+"Jordan","Reality-TV",12
+"Jordan","Romance",82
+"Jordan","Sci-Fi",25
+"Jordan","Short",85
+"Jordan","Sport",5
+"Jordan","Talk-Show",9
+"Jordan","Thriller",83
+"Jordan","War",4
+"Kenya","Action",200
+"Kenya","Adult",8
+"Kenya","Adventure",98
+"Kenya","Animation",25
+"Kenya","Biography",13
+"Kenya","Comedy",191
+"Kenya","Crime",130
+"Kenya","Documentary",13
+"Kenya","Drama",313
+"Kenya","Family",17
+"Kenya","Fantasy",30
+"Kenya","Game-Show",11
+"Kenya","History",2
+"Kenya","Horror",31
+"Kenya","Music",4
+"Kenya","Mystery",51
+"Kenya","Reality-TV",29
+"Kenya","Romance",98
+"Kenya","Sci-Fi",34
+"Kenya","Short",3
+"Kenya","Sport",11
+"Kenya","Talk-Show",8
+"Kenya","Thriller",85
+"Kenya","War",1
+"Kuwait","Action",209
+"Kuwait","Adult",5
+"Kuwait","Adventure",128
+"Kuwait","Animation",59
+"Kuwait","Biography",12
+"Kuwait","Comedy",160
+"Kuwait","Crime",121
+"Kuwait","Documentary",10
+"Kuwait","Drama",312
+"Kuwait","Family",32
+"Kuwait","Fantasy",43
+"Kuwait","Game-Show",8
+"Kuwait","History",2
+"Kuwait","Horror",43
+"Kuwait","Music",1
+"Kuwait","Musical",1
+"Kuwait","Mystery",52
+"Kuwait","Reality-TV",15
+"Kuwait","Romance",74
+"Kuwait","Sci-Fi",23
+"Kuwait","Short",7
+"Kuwait","Sport",4
+"Kuwait","Talk-Show",10
+"Kuwait","Thriller",89
+"Kuwait","War",6
+"Latvia","Action",168
+"Latvia","Adult",3
+"Latvia","Adventure",141
+"Latvia","Animation",87
+"Latvia","Biography",8
+"Latvia","Comedy",243
+"Latvia","Crime",111
+"Latvia","Documentary",13
+"Latvia","Drama",267
+"Latvia","Family",26
+"Latvia","Fantasy",33
+"Latvia","Game-Show",8
+"Latvia","History",1
+"Latvia","Horror",27
+"Latvia","Music",2
+"Latvia","Musical",1
+"Latvia","Mystery",57
+"Latvia","Reality-TV",23
+"Latvia","Romance",84
+"Latvia","Sci-Fi",36
+"Latvia","Short",6
+"Latvia","Sport",10
+"Latvia","Talk-Show",9
+"Latvia","Thriller",54
+"Latvia","War",3
+"Lebanon","Action",194
+"Lebanon","Adult",7
+"Lebanon","Adventure",106
+"Lebanon","Animation",32
+"Lebanon","Biography",13
+"Lebanon","Comedy",183
+"Lebanon","Crime",144
+"Lebanon","Documentary",11
+"Lebanon","Drama",357
+"Lebanon","Family",24
+"Lebanon","Fantasy",48
+"Lebanon","Game-Show",8
+"Lebanon","History",2
+"Lebanon","Horror",32
+"Lebanon","Music",2
+"Lebanon","Musical",1
+"Lebanon","Mystery",37
+"Lebanon","Reality-TV",17
+"Lebanon","Romance",109
+"Lebanon","Sci-Fi",23
+"Lebanon","Short",8
+"Lebanon","Sport",7
+"Lebanon","Talk-Show",11
+"Lebanon","Thriller",88
+"Lebanon","War",5
+"Lithuania","Action",145
+"Lithuania","Adult",4
+"Lithuania","Adventure",99
+"Lithuania","Animation",59
+"Lithuania","Biography",10
+"Lithuania","Comedy",218
+"Lithuania","Crime",115
+"Lithuania","Documentary",17
+"Lithuania","Drama",261
+"Lithuania","Family",24
+"Lithuania","Fantasy",33
+"Lithuania","Game-Show",9
+"Lithuania","History",2
+"Lithuania","Horror",32
+"Lithuania","Music",3
+"Lithuania","Musical",1
+"Lithuania","Mystery",46
+"Lithuania","Reality-TV",21
+"Lithuania","Romance",91
+"Lithuania","Sci-Fi",19
+"Lithuania","Short",10
+"Lithuania","Sport",11
+"Lithuania","Talk-Show",7
+"Lithuania","Thriller",60
+"Lithuania","War",5
+"Luxembourg","Action",169
+"Luxembourg","Adult",6
+"Luxembourg","Adventure",128
+"Luxembourg","Animation",53
+"Luxembourg","Biography",10
+"Luxembourg","Comedy",184
+"Luxembourg","Crime",132
+"Luxembourg","Documentary",19
+"Luxembourg","Drama",328
+"Luxembourg","Family",38
+"Luxembourg","Fantasy",46
+"Luxembourg","Game-Show",7
+"Luxembourg","History",1
+"Luxembourg","Horror",35
+"Luxembourg","Music",20
+"Luxembourg","Mystery",48
+"Luxembourg","Reality-TV",17
+"Luxembourg","Romance",95
+"Luxembourg","Sci-Fi",14
+"Luxembourg","Short",2
+"Luxembourg","Sport",15
+"Luxembourg","Talk-Show",10
+"Luxembourg","Thriller",61
+"Luxembourg","War",6
+"Malaysia","Action",247
+"Malaysia","Adult",3
+"Malaysia","Adventure",117
+"Malaysia","Animation",39
+"Malaysia","Biography",3
+"Malaysia","Comedy",166
+"Malaysia","Crime",118
+"Malaysia","Documentary",8
+"Malaysia","Drama",312
+"Malaysia","Family",19
+"Malaysia","Fantasy",40
+"Malaysia","Game-Show",2
+"Malaysia","History",6
+"Malaysia","Horror",42
+"Malaysia","Music",1
+"Malaysia","Mystery",72
+"Malaysia","News",2
+"Malaysia","Reality-TV",5
+"Malaysia","Romance",112
+"Malaysia","Sci-Fi",36
+"Malaysia","Short",2
+"Malaysia","Sport",8
+"Malaysia","Talk-Show",5
+"Malaysia","Thriller",79
+"Malaysia","War",3
+"Maldives","Action",184
+"Maldives","Adult",4
+"Maldives","Adventure",101
+"Maldives","Animation",48
+"Maldives","Biography",5
+"Maldives","Comedy",178
+"Maldives","Crime",135
+"Maldives","Documentary",15
+"Maldives","Drama",315
+"Maldives","Family",20
+"Maldives","Fantasy",32
+"Maldives","Game-Show",8
+"Maldives","Horror",29
+"Maldives","Mystery",74
+"Maldives","News",1
+"Maldives","Reality-TV",17
+"Maldives","Romance",96
+"Maldives","Sci-Fi",28
+"Maldives","Short",1
+"Maldives","Sport",5
+"Maldives","Talk-Show",10
+"Maldives","Thriller",58
+"Maldives","War",3
+"Malta","Action",172
+"Malta","Adult",6
+"Malta","Adventure",94
+"Malta","Animation",24
+"Malta","Biography",16
+"Malta","Comedy",166
+"Malta","Crime",143
+"Malta","Documentary",19
+"Malta","Drama",329
+"Malta","Family",23
+"Malta","Fantasy",25
+"Malta","Game-Show",7
+"Malta","History",3
+"Malta","Horror",32
+"Malta","Music",17
+"Malta","Mystery",53
+"Malta","Reality-TV",18
+"Malta","Romance",104
+"Malta","Sci-Fi",37
+"Malta","Short",2
+"Malta","Sport",10
+"Malta","Talk-Show",10
+"Malta","Thriller",79
+"Malta","War",6
+"Martinique","Action",219
+"Martinique","Adult",5
+"Martinique","Adventure",131
+"Martinique","Animation",47
+"Martinique","Biography",4
+"Martinique","Comedy",159
+"Martinique","Crime",140
+"Martinique","Documentary",11
+"Martinique","Drama",323
+"Martinique","Family",20
+"Martinique","Fantasy",42
+"Martinique","Game-Show",5
+"Martinique","Horror",37
+"Martinique","Music",38
+"Martinique","Mystery",41
+"Martinique","Reality-TV",15
+"Martinique","Romance",80
+"Martinique","Sci-Fi",24
+"Martinique","Short",2
+"Martinique","Sport",7
+"Martinique","Talk-Show",6
+"Martinique","Thriller",72
+"Mauritius","Action",198
+"Mauritius","Adult",5
+"Mauritius","Adventure",107
+"Mauritius","Animation",39
+"Mauritius","Biography",6
+"Mauritius","Comedy",197
+"Mauritius","Crime",135
+"Mauritius","Documentary",11
+"Mauritius","Drama",315
+"Mauritius","Family",19
+"Mauritius","Fantasy",42
+"Mauritius","Game-Show",9
+"Mauritius","Horror",44
+"Mauritius","Music",4
+"Mauritius","Mystery",64
+"Mauritius","Reality-TV",20
+"Mauritius","Romance",96
+"Mauritius","Sci-Fi",36
+"Mauritius","Short",2
+"Mauritius","Sport",9
+"Mauritius","Talk-Show",9
+"Mauritius","Thriller",62
+"Mauritius","War",1
+"Mexico","Action",133
+"Mexico","Adult",3
+"Mexico","Adventure",133
+"Mexico","Animation",87
+"Mexico","Biography",7
+"Mexico","Comedy",215
+"Mexico","Crime",108
+"Mexico","Documentary",7
+"Mexico","Drama",324
+"Mexico","Family",20
+"Mexico","Fantasy",33
+"Mexico","History",2
+"Mexico","Horror",33
+"Mexico","Music",19
+"Mexico","Musical",4
+"Mexico","Mystery",46
+"Mexico","Reality-TV",4
+"Mexico","Romance",110
+"Mexico","Sci-Fi",23
+"Mexico","Short",2
+"Mexico","Sport",7
+"Mexico","Talk-Show",6
+"Mexico","Thriller",64
+"Mexico","War",3
+"Morocco","Action",248
+"Morocco","Adult",8
+"Morocco","Adventure",105
+"Morocco","Animation",32
+"Morocco","Biography",3
+"Morocco","Comedy",168
+"Morocco","Crime",193
+"Morocco","Documentary",10
+"Morocco","Drama",349
+"Morocco","Family",17
+"Morocco","Fantasy",25
+"Morocco","Game-Show",5
+"Morocco","History",6
+"Morocco","Horror",37
+"Morocco","Music",3
+"Morocco","Musical",1
+"Morocco","Mystery",59
+"Morocco","Reality-TV",15
+"Morocco","Romance",80
+"Morocco","Sci-Fi",25
+"Morocco","Short",2
+"Morocco","Sport",9
+"Morocco","Talk-Show",7
+"Morocco","Thriller",91
+"Morocco","War",3
+"Netherlands","Action",153
+"Netherlands","Adult",5
+"Netherlands","Adventure",114
+"Netherlands","Animation",58
+"Netherlands","Biography",20
+"Netherlands","Comedy",162
+"Netherlands","Crime",148
+"Netherlands","Documentary",20
+"Netherlands","Drama",339
+"Netherlands","Family",25
+"Netherlands","Fantasy",39
+"Netherlands","Game-Show",6
+"Netherlands","History",5
+"Netherlands","Horror",29
+"Netherlands","Musical",3
+"Netherlands","Mystery",56
+"Netherlands","Reality-TV",20
+"Netherlands","Romance",89
+"Netherlands","Sci-Fi",29
+"Netherlands","Short",2
+"Netherlands","Sport",11
+"Netherlands","Talk-Show",10
+"Netherlands","Thriller",79
+"Netherlands","War",10
+"New Caledonia","Action",271
+"New Caledonia","Adult",3
+"New Caledonia","Adventure",167
+"New Caledonia","Animation",63
+"New Caledonia","Biography",9
+"New Caledonia","Comedy",145
+"New Caledonia","Crime",139
+"New Caledonia","Documentary",10
+"New Caledonia","Drama",307
+"New Caledonia","Family",22
+"New Caledonia","Fantasy",53
+"New Caledonia","Game-Show",2
+"New Caledonia","History",1
+"New Caledonia","Horror",36
+"New Caledonia","Music",12
+"New Caledonia","Mystery",34
+"New Caledonia","Reality-TV",9
+"New Caledonia","Romance",59
+"New Caledonia","Sci-Fi",32
+"New Caledonia","Short",1
+"New Caledonia","Sport",6
+"New Caledonia","Talk-Show",4
+"New Caledonia","Thriller",72
+"New Caledonia","War",3
+"New Zealand","Action",184
+"New Zealand","Adult",3
+"New Zealand","Adventure",133
+"New Zealand","Animation",69
+"New Zealand","Biography",26
+"New Zealand","Comedy",168
+"New Zealand","Crime",120
+"New Zealand","Documentary",29
+"New Zealand","Drama",290
+"New Zealand","Family",23
+"New Zealand","Fantasy",28
+"New Zealand","Film-Noir",1
+"New Zealand","Game-Show",7
+"New Zealand","History",7
+"New Zealand","Horror",29
+"New Zealand","Music",4
+"New Zealand","Mystery",60
+"New Zealand","Reality-TV",29
+"New Zealand","Romance",58
+"New Zealand","Sci-Fi",32
+"New Zealand","Short",2
+"New Zealand","Sport",14
+"New Zealand","Talk-Show",10
+"New Zealand","Thriller",74
+"New Zealand","War",7
+"New Zealand","Western",9
+"Nicaragua","Action",144
+"Nicaragua","Adult",4
+"Nicaragua","Adventure",88
+"Nicaragua","Animation",45
+"Nicaragua","Biography",1
+"Nicaragua","Comedy",192
+"Nicaragua","Crime",109
+"Nicaragua","Documentary",7
+"Nicaragua","Drama",315
+"Nicaragua","Family",19
+"Nicaragua","Fantasy",25
+"Nicaragua","Horror",29
+"Nicaragua","Music",31
+"Nicaragua","Mystery",43
+"Nicaragua","Reality-TV",5
+"Nicaragua","Romance",123
+"Nicaragua","Sci-Fi",17
+"Nicaragua","Short",3
+"Nicaragua","Sport",7
+"Nicaragua","Talk-Show",5
+"Nicaragua","Thriller",74
+"Nicaragua","War",3
+"Nigeria","Action",186
+"Nigeria","Adult",7
+"Nigeria","Adventure",69
+"Nigeria","Animation",12
+"Nigeria","Biography",12
+"Nigeria","Comedy",134
+"Nigeria","Crime",125
+"Nigeria","Documentary",16
+"Nigeria","Drama",327
+"Nigeria","Family",12
+"Nigeria","Fantasy",33
+"Nigeria","Game-Show",6
+"Nigeria","History",8
+"Nigeria","Horror",23
+"Nigeria","Music",2
+"Nigeria","Mystery",62
+"Nigeria","Reality-TV",15
+"Nigeria","Romance",114
+"Nigeria","Sci-Fi",38
+"Nigeria","Short",7
+"Nigeria","Sport",6
+"Nigeria","Talk-Show",12
+"Nigeria","Thriller",60
+"Nigeria","War",2
+"Norway","Action",182
+"Norway","Adult",7
+"Norway","Adventure",122
+"Norway","Animation",47
+"Norway","Biography",20
+"Norway","Comedy",175
+"Norway","Crime",138
+"Norway","Documentary",24
+"Norway","Drama",343
+"Norway","Family",27
+"Norway","Fantasy",40
+"Norway","Game-Show",6
+"Norway","History",10
+"Norway","Horror",27
+"Norway","Music",5
+"Norway","Musical",1
+"Norway","Mystery",48
+"Norway","Reality-TV",27
+"Norway","Romance",98
+"Norway","Sci-Fi",17
+"Norway","Short",2
+"Norway","Sport",12
+"Norway","Talk-Show",10
+"Norway","Thriller",60
+"Norway","War",10
+"Norway","Western",2
+"Oman","Action",190
+"Oman","Adult",4
+"Oman","Adventure",95
+"Oman","Animation",24
+"Oman","Biography",7
+"Oman","Comedy",123
+"Oman","Crime",125
+"Oman","Documentary",8
+"Oman","Drama",276
+"Oman","Family",18
+"Oman","Fantasy",36
+"Oman","Game-Show",4
+"Oman","History",1
+"Oman","Horror",40
+"Oman","Musical",1
+"Oman","Mystery",49
+"Oman","Reality-TV",6
+"Oman","Romance",57
+"Oman","Sci-Fi",20
+"Oman","Short",2
+"Oman","Sport",4
+"Oman","Talk-Show",6
+"Oman","Thriller",83
+"Oman","War",5
+"Pakistan","Action",277
+"Pakistan","Adult",3
+"Pakistan","Adventure",91
+"Pakistan","Animation",28
+"Pakistan","Biography",2
+"Pakistan","Comedy",156
+"Pakistan","Crime",207
+"Pakistan","Documentary",8
+"Pakistan","Drama",353
+"Pakistan","Family",16
+"Pakistan","Fantasy",29
+"Pakistan","Game-Show",4
+"Pakistan","Horror",37
+"Pakistan","Musical",2
+"Pakistan","Mystery",92
+"Pakistan","Reality-TV",9
+"Pakistan","Romance",53
+"Pakistan","Sci-Fi",34
+"Pakistan","Short",2
+"Pakistan","Sport",3
+"Pakistan","Talk-Show",12
+"Pakistan","Thriller",81
+"Pakistan","War",2
+"Panama","Action",154
+"Panama","Adult",3
+"Panama","Adventure",113
+"Panama","Animation",65
+"Panama","Biography",7
+"Panama","Comedy",190
+"Panama","Crime",122
+"Panama","Documentary",9
+"Panama","Drama",323
+"Panama","Family",19
+"Panama","Fantasy",26
+"Panama","Game-Show",3
+"Panama","History",1
+"Panama","Horror",30
+"Panama","Music",22
+"Panama","Musical",2
+"Panama","Mystery",39
+"Panama","Reality-TV",8
+"Panama","Romance",124
+"Panama","Sci-Fi",18
+"Panama","Short",3
+"Panama","Sport",6
+"Panama","Talk-Show",6
+"Panama","Thriller",73
+"Panama","War",4
+"Paraguay","Action",145
+"Paraguay","Adult",3
+"Paraguay","Adventure",102
+"Paraguay","Animation",55
+"Paraguay","Biography",6
+"Paraguay","Comedy",194
+"Paraguay","Crime",116
+"Paraguay","Documentary",11
+"Paraguay","Drama",326
+"Paraguay","Family",15
+"Paraguay","Fantasy",19
+"Paraguay","Game-Show",1
+"Paraguay","History",1
+"Paraguay","Horror",31
+"Paraguay","Music",32
+"Paraguay","Mystery",50
+"Paraguay","Reality-TV",7
+"Paraguay","Romance",121
+"Paraguay","Sci-Fi",17
+"Paraguay","Short",2
+"Paraguay","Sport",8
+"Paraguay","Talk-Show",7
+"Paraguay","Thriller",78
+"Paraguay","War",4
+"Peru","Action",169
+"Peru","Adult",3
+"Peru","Adventure",124
+"Peru","Animation",69
+"Peru","Biography",3
+"Peru","Comedy",189
+"Peru","Crime",109
+"Peru","Documentary",8
+"Peru","Drama",304
+"Peru","Family",16
+"Peru","Fantasy",30
+"Peru","History",2
+"Peru","Horror",28
+"Peru","Music",20
+"Peru","Mystery",44
+"Peru","Reality-TV",5
+"Peru","Romance",110
+"Peru","Sci-Fi",27
+"Peru","Short",1
+"Peru","Sport",6
+"Peru","Talk-Show",5
+"Peru","Thriller",69
+"Peru","War",4
+"Philippines","Action",215
+"Philippines","Adult",2
+"Philippines","Adventure",101
+"Philippines","Animation",32
+"Philippines","Biography",8
+"Philippines","Comedy",169
+"Philippines","Crime",108
+"Philippines","Documentary",14
+"Philippines","Drama",320
+"Philippines","Family",31
+"Philippines","Fantasy",37
+"Philippines","History",6
+"Philippines","Horror",49
+"Philippines","Music",2
+"Philippines","Musical",2
+"Philippines","Mystery",64
+"Philippines","News",2
+"Philippines","Reality-TV",3
+"Philippines","Romance",117
+"Philippines","Sci-Fi",59
+"Philippines","Short",2
+"Philippines","Sport",3
+"Philippines","Talk-Show",5
+"Philippines","Thriller",78
+"Philippines","War",4
+"Poland","Action",157
+"Poland","Adult",4
+"Poland","Adventure",173
+"Poland","Animation",105
+"Poland","Biography",9
+"Poland","Comedy",208
+"Poland","Crime",138
+"Poland","Documentary",15
+"Poland","Drama",300
+"Poland","Family",23
+"Poland","Fantasy",39
+"Poland","Game-Show",3
+"Poland","History",3
+"Poland","Horror",38
+"Poland","Music",4
+"Poland","Mystery",50
+"Poland","Reality-TV",11
+"Poland","Romance",76
+"Poland","Sci-Fi",21
+"Poland","Sport",13
+"Poland","Talk-Show",10
+"Poland","Thriller",80
+"Poland","War",5
+"Portugal","Action",164
+"Portugal","Adult",9
+"Portugal","Adventure",127
+"Portugal","Animation",36
+"Portugal","Biography",7
+"Portugal","Comedy",188
+"Portugal","Crime",111
+"Portugal","Documentary",15
+"Portugal","Drama",324
+"Portugal","Family",46
+"Portugal","Fantasy",28
+"Portugal","Game-Show",9
+"Portugal","History",3
+"Portugal","Horror",28
+"Portugal","Music",35
+"Portugal","Musical",21
+"Portugal","Mystery",37
+"Portugal","Reality-TV",20
+"Portugal","Romance",95
+"Portugal","Sci-Fi",15
+"Portugal","Short",2
+"Portugal","Sport",12
+"Portugal","Talk-Show",7
+"Portugal","Thriller",67
+"Portugal","War",7
+"Qatar","Action",203
+"Qatar","Adult",3
+"Qatar","Adventure",115
+"Qatar","Animation",31
+"Qatar","Biography",16
+"Qatar","Comedy",154
+"Qatar","Crime",127
+"Qatar","Documentary",15
+"Qatar","Drama",340
+"Qatar","Family",20
+"Qatar","Fantasy",43
+"Qatar","Game-Show",11
+"Qatar","History",6
+"Qatar","Horror",37
+"Qatar","Music",1
+"Qatar","Mystery",50
+"Qatar","Reality-TV",21
+"Qatar","Romance",107
+"Qatar","Sci-Fi",26
+"Qatar","Short",2
+"Qatar","Sport",8
+"Qatar","Talk-Show",10
+"Qatar","Thriller",82
+"Qatar","War",5
+"Romania","Action",173
+"Romania","Adult",6
+"Romania","Adventure",107
+"Romania","Animation",25
+"Romania","Biography",12
+"Romania","Comedy",161
+"Romania","Crime",148
+"Romania","Documentary",18
+"Romania","Drama",353
+"Romania","Family",27
+"Romania","Fantasy",40
+"Romania","Game-Show",9
+"Romania","History",5
+"Romania","Horror",34
+"Romania","Music",4
+"Romania","Mystery",69
+"Romania","Reality-TV",20
+"Romania","Romance",102
+"Romania","Sci-Fi",16
+"Romania","Short",3
+"Romania","Sport",12
+"Romania","Talk-Show",9
+"Romania","Thriller",91
+"Romania","War",6
+"Russia","Action",254
+"Russia","Adult",7
+"Russia","Adventure",137
+"Russia","Animation",57
+"Russia","Biography",5
+"Russia","Comedy",186
+"Russia","Crime",206
+"Russia","Documentary",10
+"Russia","Drama",339
+"Russia","Family",30
+"Russia","Fantasy",35
+"Russia","Horror",31
+"Russia","Music",2
+"Russia","Musical",1
+"Russia","Mystery",49
+"Russia","Reality-TV",5
+"Russia","Romance",57
+"Russia","Sci-Fi",22
+"Russia","Short",2
+"Russia","Sport",9
+"Russia","Talk-Show",12
+"Russia","Thriller",67
+"Russia","War",2
+"Réunion","Action",220
+"Réunion","Adult",3
+"Réunion","Adventure",137
+"Réunion","Animation",59
+"Réunion","Biography",6
+"Réunion","Comedy",171
+"Réunion","Crime",121
+"Réunion","Documentary",11
+"Réunion","Drama",326
+"Réunion","Family",26
+"Réunion","Fantasy",52
+"Réunion","Game-Show",4
+"Réunion","Horror",47
+"Réunion","Music",36
+"Réunion","Mystery",42
+"Réunion","Reality-TV",10
+"Réunion","Romance",74
+"Réunion","Sci-Fi",31
+"Réunion","Short",2
+"Réunion","Sport",9
+"Réunion","Talk-Show",7
+"Réunion","Thriller",69
+"Réunion","War",1
+"Saudi Arabia","Action",230
+"Saudi Arabia","Adult",6
+"Saudi Arabia","Adventure",94
+"Saudi Arabia","Animation",42
+"Saudi Arabia","Biography",9
+"Saudi Arabia","Comedy",148
+"Saudi Arabia","Crime",159
+"Saudi Arabia","Documentary",6
+"Saudi Arabia","Drama",338
+"Saudi Arabia","Family",23
+"Saudi Arabia","Fantasy",30
+"Saudi Arabia","Game-Show",4
+"Saudi Arabia","History",2
+"Saudi Arabia","Horror",48
+"Saudi Arabia","Music",2
+"Saudi Arabia","Musical",1
+"Saudi Arabia","Mystery",53
+"Saudi Arabia","Reality-TV",10
+"Saudi Arabia","Romance",73
+"Saudi Arabia","Sci-Fi",25
+"Saudi Arabia","Short",4
+"Saudi Arabia","Sport",6
+"Saudi Arabia","Talk-Show",11
+"Saudi Arabia","Thriller",94
+"Saudi Arabia","War",6
+"Saudi Arabia","Western",1
+"Serbia","Action",206
+"Serbia","Adult",7
+"Serbia","Adventure",114
+"Serbia","Animation",37
+"Serbia","Biography",6
+"Serbia","Comedy",188
+"Serbia","Crime",147
+"Serbia","Documentary",13
+"Serbia","Drama",315
+"Serbia","Family",25
+"Serbia","Fantasy",28
+"Serbia","Game-Show",7
+"Serbia","History",2
+"Serbia","Horror",29
+"Serbia","Music",6
+"Serbia","Mystery",45
+"Serbia","Reality-TV",20
+"Serbia","Romance",95
+"Serbia","Sci-Fi",19
+"Serbia","Short",1
+"Serbia","Sport",11
+"Serbia","Talk-Show",12
+"Serbia","Thriller",83
+"Serbia","War",5
+"Singapore","Action",225
+"Singapore","Adult",3
+"Singapore","Adventure",100
+"Singapore","Animation",29
+"Singapore","Biography",8
+"Singapore","Comedy",149
+"Singapore","Crime",120
+"Singapore","Documentary",15
+"Singapore","Drama",333
+"Singapore","Family",13
+"Singapore","Fantasy",31
+"Singapore","Game-Show",6
+"Singapore","History",5
+"Singapore","Horror",35
+"Singapore","Music",4
+"Singapore","Mystery",72
+"Singapore","News",2
+"Singapore","Reality-TV",22
+"Singapore","Romance",103
+"Singapore","Sci-Fi",54
+"Singapore","Short",2
+"Singapore","Sport",10
+"Singapore","Talk-Show",6
+"Singapore","Thriller",83
+"Singapore","War",3
+"Slovakia","Action",187
+"Slovakia","Adult",8
+"Slovakia","Adventure",147
+"Slovakia","Animation",70
+"Slovakia","Biography",19
+"Slovakia","Comedy",192
+"Slovakia","Crime",129
+"Slovakia","Documentary",34
+"Slovakia","Drama",298
+"Slovakia","Family",30
+"Slovakia","Fantasy",35
+"Slovakia","Game-Show",12
+"Slovakia","Horror",31
+"Slovakia","Music",6
+"Slovakia","Mystery",46
+"Slovakia","Reality-TV",25
+"Slovakia","Romance",81
+"Slovakia","Sci-Fi",10
+"Slovakia","Short",2
+"Slovakia","Sport",15
+"Slovakia","Talk-Show",11
+"Slovakia","Thriller",53
+"Slovakia","War",4
+"Slovenia","Action",186
+"Slovenia","Adult",8
+"Slovenia","Adventure",119
+"Slovenia","Animation",40
+"Slovenia","Biography",9
+"Slovenia","Comedy",194
+"Slovenia","Crime",114
+"Slovenia","Documentary",15
+"Slovenia","Drama",264
+"Slovenia","Family",29
+"Slovenia","Fantasy",37
+"Slovenia","Game-Show",11
+"Slovenia","History",3
+"Slovenia","Horror",31
+"Slovenia","Music",5
+"Slovenia","Mystery",38
+"Slovenia","Reality-TV",27
+"Slovenia","Romance",86
+"Slovenia","Sci-Fi",27
+"Slovenia","Short",1
+"Slovenia","Sport",12
+"Slovenia","Talk-Show",7
+"Slovenia","Thriller",66
+"Slovenia","War",4
+"South Africa","Action",187
+"South Africa","Adult",5
+"South Africa","Adventure",106
+"South Africa","Animation",45
+"South Africa","Biography",14
+"South Africa","Comedy",198
+"South Africa","Crime",103
+"South Africa","Documentary",17
+"South Africa","Drama",313
+"South Africa","Family",20
+"South Africa","Fantasy",30
+"South Africa","Game-Show",11
+"South Africa","History",3
+"South Africa","Horror",29
+"South Africa","Music",3
+"South Africa","Mystery",60
+"South Africa","News",1
+"South Africa","Reality-TV",30
+"South Africa","Romance",106
+"South Africa","Sci-Fi",48
+"South Africa","Short",3
+"South Africa","Sport",13
+"South Africa","Talk-Show",14
+"South Africa","Thriller",69
+"South Africa","War",3
+"South Korea","Action",183
+"South Korea","Adult",6
+"South Korea","Adventure",66
+"South Korea","Animation",21
+"South Korea","Biography",2
+"South Korea","Comedy",177
+"South Korea","Crime",82
+"South Korea","Documentary",2
+"South Korea","Drama",334
+"South Korea","Family",10
+"South Korea","Fantasy",39
+"South Korea","History",6
+"South Korea","Horror",32
+"South Korea","Music",7
+"South Korea","Mystery",43
+"South Korea","Reality-TV",21
+"South Korea","Romance",132
+"South Korea","Sci-Fi",31
+"South Korea","Short",2
+"South Korea","Sport",7
+"South Korea","Talk-Show",3
+"South Korea","Thriller",83
+"South Korea","War",5
+"Spain","Action",169
+"Spain","Adult",7
+"Spain","Adventure",106
+"Spain","Animation",30
+"Spain","Biography",7
+"Spain","Comedy",175
+"Spain","Crime",139
+"Spain","Documentary",16
+"Spain","Drama",320
+"Spain","Family",25
+"Spain","Fantasy",33
+"Spain","Game-Show",5
+"Spain","History",5
+"Spain","Horror",38
+"Spain","Music",21
+"Spain","Mystery",50
+"Spain","Reality-TV",13
+"Spain","Romance",96
+"Spain","Sci-Fi",20
+"Spain","Sport",12
+"Spain","Talk-Show",9
+"Spain","Thriller",61
+"Spain","War",5
+"Sri Lanka","Action",183
+"Sri Lanka","Adult",3
+"Sri Lanka","Adventure",72
+"Sri Lanka","Animation",25
+"Sri Lanka","Biography",6
+"Sri Lanka","Comedy",175
+"Sri Lanka","Crime",135
+"Sri Lanka","Documentary",12
+"Sri Lanka","Drama",362
+"Sri Lanka","Family",24
+"Sri Lanka","Fantasy",31
+"Sri Lanka","Game-Show",7
+"Sri Lanka","Horror",28
+"Sri Lanka","Mystery",76
+"Sri Lanka","News",2
+"Sri Lanka","Reality-TV",14
+"Sri Lanka","Romance",107
+"Sri Lanka","Sci-Fi",39
+"Sri Lanka","Short",3
+"Sri Lanka","Sport",5
+"Sri Lanka","Talk-Show",8
+"Sri Lanka","Thriller",65
+"Sri Lanka","War",5
+"Sweden","Action",186
+"Sweden","Adult",5
+"Sweden","Adventure",131
+"Sweden","Animation",55
+"Sweden","Biography",18
+"Sweden","Comedy",168
+"Sweden","Crime",136
+"Sweden","Documentary",22
+"Sweden","Drama",337
+"Sweden","Family",24
+"Sweden","Fantasy",44
+"Sweden","Game-Show",6
+"Sweden","History",8
+"Sweden","Horror",27
+"Sweden","Music",6
+"Sweden","Musical",1
+"Sweden","Mystery",54
+"Sweden","Reality-TV",22
+"Sweden","Romance",84
+"Sweden","Sci-Fi",23
+"Sweden","Short",2
+"Sweden","Sport",11
+"Sweden","Talk-Show",8
+"Sweden","Thriller",62
+"Sweden","War",11
+"Sweden","Western",1
+"Switzerland","Action",182
+"Switzerland","Adult",11
+"Switzerland","Adventure",134
+"Switzerland","Animation",31
+"Switzerland","Biography",13
+"Switzerland","Comedy",182
+"Switzerland","Crime",146
+"Switzerland","Documentary",21
+"Switzerland","Drama",325
+"Switzerland","Family",42
+"Switzerland","Fantasy",54
+"Switzerland","Game-Show",5
+"Switzerland","History",2
+"Switzerland","Horror",38
+"Switzerland","Music",7
+"Switzerland","Mystery",55
+"Switzerland","Reality-TV",18
+"Switzerland","Romance",83
+"Switzerland","Sci-Fi",23
+"Switzerland","Short",2
+"Switzerland","Sport",14
+"Switzerland","Talk-Show",11
+"Switzerland","Thriller",64
+"Switzerland","War",4
+"Taiwan","Action",202
+"Taiwan","Adult",3
+"Taiwan","Adventure",98
+"Taiwan","Animation",32
+"Taiwan","Biography",12
+"Taiwan","Comedy",158
+"Taiwan","Crime",98
+"Taiwan","Documentary",9
+"Taiwan","Drama",363
+"Taiwan","Family",14
+"Taiwan","Fantasy",36
+"Taiwan","Game-Show",1
+"Taiwan","History",4
+"Taiwan","Horror",33
+"Taiwan","Music",3
+"Taiwan","Mystery",77
+"Taiwan","Reality-TV",1
+"Taiwan","Romance",170
+"Taiwan","Sci-Fi",52
+"Taiwan","Short",2
+"Taiwan","Sport",12
+"Taiwan","Talk-Show",3
+"Taiwan","Thriller",64
+"Taiwan","War",3
+"Thailand","Action",250
+"Thailand","Adult",2
+"Thailand","Adventure",152
+"Thailand","Animation",48
+"Thailand","Biography",5
+"Thailand","Comedy",182
+"Thailand","Crime",100
+"Thailand","Documentary",5
+"Thailand","Drama",295
+"Thailand","Family",15
+"Thailand","Fantasy",47
+"Thailand","History",14
+"Thailand","Horror",40
+"Thailand","Music",5
+"Thailand","Mystery",61
+"Thailand","Romance",143
+"Thailand","Sci-Fi",53
+"Thailand","Short",2
+"Thailand","Sport",1
+"Thailand","Talk-Show",1
+"Thailand","Thriller",81
+"Thailand","War",3
+"Thailand","Western",2
+"Trinidad and Tobago","Action",186
+"Trinidad and Tobago","Adult",6
+"Trinidad and Tobago","Adventure",112
+"Trinidad and Tobago","Animation",59
+"Trinidad and Tobago","Biography",9
+"Trinidad and Tobago","Comedy",162
+"Trinidad and Tobago","Crime",126
+"Trinidad and Tobago","Documentary",14
+"Trinidad and Tobago","Drama",289
+"Trinidad and Tobago","Family",25
+"Trinidad and Tobago","Fantasy",36
+"Trinidad and Tobago","Game-Show",7
+"Trinidad and Tobago","History",2
+"Trinidad and Tobago","Horror",31
+"Trinidad and Tobago","Music",4
+"Trinidad and Tobago","Mystery",53
+"Trinidad and Tobago","Reality-TV",20
+"Trinidad and Tobago","Romance",90
+"Trinidad and Tobago","Sci-Fi",22
+"Trinidad and Tobago","Short",3
+"Trinidad and Tobago","Sport",7
+"Trinidad and Tobago","Talk-Show",10
+"Trinidad and Tobago","Thriller",101
+"Trinidad and Tobago","War",5
+"Trinidad and Tobago","Western",1
+"Turkey","Action",214
+"Turkey","Adult",4
+"Turkey","Adventure",119
+"Turkey","Animation",30
+"Turkey","Biography",11
+"Turkey","Comedy",172
+"Turkey","Crime",147
+"Turkey","Documentary",15
+"Turkey","Drama",359
+"Turkey","Family",25
+"Turkey","Fantasy",57
+"Turkey","Game-Show",3
+"Turkey","History",1
+"Turkey","Horror",48
+"Turkey","Music",1
+"Turkey","Musical",1
+"Turkey","Mystery",54
+"Turkey","News",2
+"Turkey","Reality-TV",14
+"Turkey","Romance",76
+"Turkey","Sci-Fi",30
+"Turkey","Sport",6
+"Turkey","Talk-Show",14
+"Turkey","Thriller",76
+"Turkey","War",5
+"Ukraine","Action",218
+"Ukraine","Adult",8
+"Ukraine","Adventure",142
+"Ukraine","Animation",60
+"Ukraine","Biography",7
+"Ukraine","Comedy",194
+"Ukraine","Crime",160
+"Ukraine","Documentary",13
+"Ukraine","Drama",320
+"Ukraine","Family",30
+"Ukraine","Fantasy",32
+"Ukraine","Game-Show",2
+"Ukraine","Horror",29
+"Ukraine","Music",3
+"Ukraine","Musical",1
+"Ukraine","Mystery",43
+"Ukraine","Reality-TV",8
+"Ukraine","Romance",65
+"Ukraine","Sci-Fi",24
+"Ukraine","Short",2
+"Ukraine","Sport",9
+"Ukraine","Talk-Show",14
+"Ukraine","Thriller",70
+"Ukraine","War",2
+"United Arab Emirates","Action",199
+"United Arab Emirates","Adult",3
+"United Arab Emirates","Adventure",115
+"United Arab Emirates","Animation",38
+"United Arab Emirates","Biography",19
+"United Arab Emirates","Comedy",164
+"United Arab Emirates","Crime",126
+"United Arab Emirates","Documentary",16
+"United Arab Emirates","Drama",340
+"United Arab Emirates","Family",18
+"United Arab Emirates","Fantasy",43
+"United Arab Emirates","Game-Show",11
+"United Arab Emirates","History",4
+"United Arab Emirates","Horror",35
+"United Arab Emirates","Music",1
+"United Arab Emirates","Musical",1
+"United Arab Emirates","Mystery",48
+"United Arab Emirates","Reality-TV",24
+"United Arab Emirates","Romance",113
+"United Arab Emirates","Sci-Fi",25
+"United Arab Emirates","Short",3
+"United Arab Emirates","Sport",7
+"United Arab Emirates","Talk-Show",9
+"United Arab Emirates","Thriller",75
+"United Arab Emirates","War",5
+"United Kingdom","Action",171
+"United Kingdom","Adult",8
+"United Kingdom","Adventure",140
+"United Kingdom","Animation",63
+"United Kingdom","Biography",17
+"United Kingdom","Comedy",211
+"United Kingdom","Crime",103
+"United Kingdom","Documentary",28
+"United Kingdom","Drama",273
+"United Kingdom","Family",30
+"United Kingdom","Fantasy",39
+"United Kingdom","Game-Show",5
+"United Kingdom","History",3
+"United Kingdom","Horror",31
+"United Kingdom","Music",3
+"United Kingdom","Musical",3
+"United Kingdom","Mystery",38
+"United Kingdom","News",1
+"United Kingdom","Reality-TV",29
+"United Kingdom","Romance",85
+"United Kingdom","Sci-Fi",32
+"United Kingdom","Short",7
+"United Kingdom","Sport",11
+"United Kingdom","Talk-Show",8
+"United Kingdom","Thriller",65
+"United Kingdom","War",5
+"United Kingdom","Western",2
+"United States","Action",147
+"United States","Adult",6
+"United States","Adventure",108
+"United States","Animation",46
+"United States","Biography",4
+"United States","Comedy",159
+"United States","Crime",103
+"United States","Documentary",17
+"United States","Drama",285
+"United States","Family",39
+"United States","Fantasy",30
+"United States","Game-Show",6
+"United States","History",5
+"United States","Horror",35
+"United States","Music",11
+"United States","Mystery",52
+"United States","Reality-TV",28
+"United States","Romance",63
+"United States","Sci-Fi",29
+"United States","Short",3
+"United States","Sport",25
+"United States","Talk-Show",10
+"United States","Thriller",56
+"United States","War",3
+"United States","Western",3
+"Uruguay","Action",142
+"Uruguay","Adult",3
+"Uruguay","Adventure",109
+"Uruguay","Animation",51
+"Uruguay","Biography",13
+"Uruguay","Comedy",162
+"Uruguay","Crime",146
+"Uruguay","Documentary",12
+"Uruguay","Drama",360
+"Uruguay","Family",19
+"Uruguay","Fantasy",24
+"Uruguay","Game-Show",1
+"Uruguay","History",5
+"Uruguay","Horror",40
+"Uruguay","Music",36
+"Uruguay","Mystery",63
+"Uruguay","Reality-TV",5
+"Uruguay","Romance",83
+"Uruguay","Sci-Fi",16
+"Uruguay","Short",2
+"Uruguay","Sport",9
+"Uruguay","Talk-Show",9
+"Uruguay","Thriller",85
+"Uruguay","War",5
+"Uruguay","Western",1
+"Venezuela","Action",143
+"Venezuela","Adult",5
+"Venezuela","Adventure",83
+"Venezuela","Animation",42
+"Venezuela","Biography",6
+"Venezuela","Comedy",179
+"Venezuela","Crime",123
+"Venezuela","Documentary",11
+"Venezuela","Drama",325
+"Venezuela","Family",20
+"Venezuela","Fantasy",16
+"Venezuela","Horror",31
+"Venezuela","Music",28
+"Venezuela","Mystery",46
+"Venezuela","Reality-TV",5
+"Venezuela","Romance",120
+"Venezuela","Sci-Fi",14
+"Venezuela","Short",1
+"Venezuela","Sport",9
+"Venezuela","Talk-Show",7
+"Venezuela","Thriller",82
+"Venezuela","War",5
+"Vietnam","Action",267
+"Vietnam","Adult",2
+"Vietnam","Adventure",144
+"Vietnam","Animation",22
+"Vietnam","Biography",2
+"Vietnam","Comedy",211
+"Vietnam","Crime",103
+"Vietnam","Documentary",6
+"Vietnam","Drama",339
+"Vietnam","Family",31
+"Vietnam","Fantasy",49
+"Vietnam","Game-Show",1
+"Vietnam","History",13
+"Vietnam","Horror",37
+"Vietnam","Music",3
+"Vietnam","Mystery",53
+"Vietnam","Reality-TV",1
+"Vietnam","Romance",142
+"Vietnam","Sci-Fi",52
+"Vietnam","Short",3
+"Vietnam","Talk-Show",4
+"Vietnam","Thriller",82
+"Vietnam","War",6
